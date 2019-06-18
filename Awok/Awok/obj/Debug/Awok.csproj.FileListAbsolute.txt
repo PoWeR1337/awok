@@ -1,0 +1,12 @@
+G:\c#\Awok\Awok\bin\Debug\Awok.exe.config
+G:\c#\Awok\Awok\bin\Debug\Awok.exe
+G:\c#\Awok\Awok\bin\Debug\Awok.pdb
+G:\c#\Awok\Awok\obj\Debug\Awok.csprojAssemblyReference.cache
+G:\c#\Awok\Awok\obj\Debug\Awok.Form1.resources
+G:\c#\Awok\Awok\obj\Debug\Awok.Properties.Resources.resources
+G:\c#\Awok\Awok\obj\Debug\Awok.csproj.GenerateResource.cache
+G:\c#\Awok\Awok\obj\Debug\Awok.csproj.CoreCompileInputs.cache
+G:\c#\Awok\Awok\obj\Debug\Awok.exe
+G:\c#\Awok\Awok\obj\Debug\Awok.pdb
+G:\c#\Awok\Awok\obj\Debug\Awok.Benutzer.resources
+G:\c#\Awok\Awok\obj\Debug\Awok.Eingabe.resources
